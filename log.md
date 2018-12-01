@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 01, 2018 (data Structure and Algorithm)
+##### (Knuth Morris Algo and Problem solving in Python)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
