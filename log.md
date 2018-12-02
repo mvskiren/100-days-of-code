@@ -1,25 +1,26 @@
 # 100 Days Of Code - Log
 
 ### Day 1: December 01, 2018 (data Structure and Algorithm)
-##### (Knuth Morris Algo and Problem solving in Python)
+##### (Knuth Morris Algo)
+**Purpose and use case**:Used for Pattern searching in a given string(Text File).
+**Time-Complexity**: O(n+m) most efficenint.
+**Today's Progress**: Learned algorithm and backtracking .
+**Pending:** Code to be Uplaoded .
+**Thoughts:**  !!!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link to work:** [Tushar Roy](https://github.com/mission-peace/interview/blob/master/src/com/interview/string/SubstringSearch.java)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: December 02, 2018 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned string Methods to make a use to solve problems.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Problem solving in hackeerank.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
