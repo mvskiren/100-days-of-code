@@ -20,10 +20,9 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 3: June 27, Monday
+### Day 3: December 4, Tuesday.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
+**Today's Progress**: Done with closest left number in array.
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
